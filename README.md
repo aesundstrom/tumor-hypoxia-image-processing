@@ -1,4 +1,4 @@
 tumor-hypoxia-image-processing
 ==============================
 
-Matlab code for processing histological images of tumor hypoxia.
+Matlab code for processing histological images of chronic tumor hypoxia.
